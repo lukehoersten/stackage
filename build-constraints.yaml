@@ -3362,6 +3362,12 @@ packages:
 
     "Alexander Krupenkin <mail@akru.me> @akru":
         - web3 < 0 # via exceptions-0.10.0
+        
+    "Luke Hoersten <luke@hoersten.org> @lukehoersten":
+        - prometheus
+        - hgrev
+        - unagi-streams
+        - multihash
 
     # If you stop maintaining a package you can move it here.
     # It will then be disabled if it starts causing problems.
